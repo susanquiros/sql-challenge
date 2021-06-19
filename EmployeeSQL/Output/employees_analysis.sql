@@ -57,5 +57,3 @@ ORDER BY COUNT ("employees"."last_name")DESC;
 
 
 
-
-
