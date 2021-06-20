@@ -1,1 +1,0 @@
-key = 'postgresql://postgres:postgres@localhost:5432/SQ_employees_db'
