@@ -1,5 +1,11 @@
-# sql-challenge
+# SQL-challenge
 SQL Homework - Employee Database: A Mystery in Two Parts
+
+** Visualizing how the different data set are related to each other (schemata)
+
+![image-20210622204009268](C:\Users\squiros\AppData\Roaming\Typora\typora-user-images\image-20210622204009268.png)
+
+
 
 1.List the following details of each employee: employee number, last name, first name, sex, and salary.
 
